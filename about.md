@@ -1,7 +1,5 @@
 ## About Me
 
-# About Me
-
 I’m Dan Backes — born in Chippewa Falls, Wisconsin, raised in Salina, Kansas, and eventually wandered south to Wichita State University, where I majored in accounting and finance and learned that spreadsheets are surprisingly compatible with daydreaming. After earning my MBA from Creighton University, I settled in Omaha in 2014 and built a life rooted in curiosity, creativity, and community.
 
 Music has been stitched into my life from the beginning: piano at five, clarinet in fifth grade, drum major in high school, and a self‑taught parade of instruments ever since — ukulele, guitar, mandolin, banjo, trumpet, even the Native American flute. Through some severe health challenges in recent years, music became more than a hobby; it became a steady rhythm when life felt off‑beat.
