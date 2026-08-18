@@ -3,7 +3,7 @@
 ## About the Show
 _Stream of Consciousness w/ Dan_ is a Midwest-rooted podcast where honest, inspiring conversations take center stage. Hosted by Dan in Omaha, Nebraska, each episode explores the stories, values, and voices that shape our communities - from athletes and creatives to local business owners who bring heart and hustle to the region.
 
-Whether it's legendary NFL nose tackle or the soul behind a beloved neighborhood kitchen, Stream of Consciousness invites guests to share their journeys, challenges, and reflections in a space built on authenticity and connection.
+Whether it's a legendary NFL nose tackle or the soul behind a beloved neighborhood kitchen, Stream of Consciousness invites guests to share their journeys, challenges, and reflections in a space built on authenticity and connection.
 
 ## Latest Episodes
 
