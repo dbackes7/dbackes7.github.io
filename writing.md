@@ -1,17 +1,17 @@
 # Writing
 
-Welcome to the hub for all my creative work — fiction, poetry, and my cookbook *Salted Words, Broken Break*.
+Welcome to the hub for all my creative work — fiction, poetry, and cookbooks.
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
   <div style="flex: 1; min-width: 250px;">
-    <h3><a href="novel.md">The Notes Between Us</a></h3>
-    <p>My novel set in the MAGIS world — characters, lore, musical magic, and story development.</p>
+    <h3><a href="novels.md">Novels</a></h3>
+    <p>Stories from the MAGIS world and beyond.</p>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-    <h3><a href="cookbook.md">Salted Words, Broken Break</a></h3>
-    <p>A cookbook built from poetry — dishes, drafts, and the creative process behind them.</p>
+    <h3><a href="cookbooks.md">Cookbooks</a></h3>
+    <p>My culinary writing, including <em>Salted Words, Broken Break</em>.</p>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
@@ -20,4 +20,5 @@ Welcome to the hub for all my creative work — fiction, poetry, and my cookbook
   </div>
 
 </div>
+
 
