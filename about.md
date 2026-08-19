@@ -18,21 +18,10 @@ A few snapshots from the people and pets who make up my world.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-  <div style="text-align: center;">
-    <img src="assets/Dan and Sam Engagement.jpg" width="250" style="border: 2px solid #ccc; border-radius: 8px;">
-    <div style="margin-top: 8px; font-size: 14px; color: #555;">Dan & Sam</div>
-  </div>
+  <img src="assets/Dan and Sam Engagement.jpg" width="250" style="border: 2px solid #ccc; border-radius: 8px;">
 
-  <div style="text-align: center;">
-    <img src="assets/Cooper and Finn Backyard.JPG" width="250" style="border: 2px solid #ccc; border-radius: 8px;">
-    <div style="margin-top: 8px; font-size: 14px; color: #555;">Cooper & Finn</div>
-  </div>
+  <img src="assets/Cooper and Finn Backyard.JPG" width="250" style="border: 2px solid #ccc; border-radius: 8px;">
 
-  <div style="text-align: center;">
-    <img src="assets/Bramble.jpeg" width="250" style="border: 2px solid #ccc; border-radius: 8px;">
-    <div style="margin-top: 8px; font-size: 14px; color: #555;">Bramble</div>
-  </div>
+  <img src="assets/Bramble.jpeg" width="250" style="border: 2px solid #ccc; border-radius: 8px;">
 
 </div>
-
-
