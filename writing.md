@@ -1,6 +1,6 @@
 # Writing
 
-Welcome to the hub for all my creative work — fiction, poetry, and my poem‑first cookbook.
+Welcome to the hub for all my creative work — fiction, poetry, and my cookbook *Salted Words, Broken Break*.
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
@@ -10,8 +10,8 @@ Welcome to the hub for all my creative work — fiction, poetry, and my poem‑f
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-    <h3><a href="cookbook.md">Poem‑First Cookbook</a></h3>
-    <p>Recipes that begin with poetry — drafts, dishes, and the creative process behind them.</p>
+    <h3><a href="cookbook.md">Salted Words, Broken Break</a></h3>
+    <p>A cookbook built from poetry — dishes, drafts, and the creative process behind them.</p>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
@@ -20,3 +20,4 @@ Welcome to the hub for all my creative work — fiction, poetry, and my poem‑f
   </div>
 
 </div>
+
