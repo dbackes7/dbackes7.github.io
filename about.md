@@ -11,3 +11,19 @@ I’m also an alcoholic, nearly four months sober, and I attend AA meetings ever
 When I’m not recording or playing one of my many instruments, I’m writing fiction, developing a poem‑first cookbook, golfing, cooking, playing video games, or spending time with my wife Sam, our dogs Cooper and Finn, and our cat Bramble — all of whom have strong opinions about my creative process.
 
 My novel *The Notes Between Us* is currently in the works, with two middle‑school/YA novellas and a children’s book on deck. Whether I’m behind a microphone or deep in a draft, my goal is the same: to make things that feel honest, hopeful, and just a little bit cheeky.
+
+## Family & Life
+
+A few snapshots from the people and pets who make up my world.
+
+<p align="center">
+  <img src="assets/Dan and Sam Engagement.jpg" width="300" style="border: 2px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
+</p>
+
+<p align="center">
+  <img src="assets/Cooper and Finn Backyard.JPG" width="300" style="border: 2px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
+</p>
+
+<p align="center">
+  <img src="assets/Bramble.jpeg" width="300" style="border: 2px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
+</p>
