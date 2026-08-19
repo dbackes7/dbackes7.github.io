@@ -13,7 +13,6 @@ At MAGIS, Basil meets the bandmates who will become his closest friends — a gr
 The story blends humor, heart, and musical magic — exploring creativity, belonging, and what happens when a kid who’s always felt like an outsider finally finds the place where he fits.
 
 ### Characters
-### Characters
 
 This section introduces the main cast of *The Notes Between Us* — Basil, his family, his bandmates, and the faculty who shape his journey at MAGIS.
 
