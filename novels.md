@@ -1,6 +1,6 @@
 # Novels
 
-Welcome to my fiction — stories built from music, memory, and the MAGIS world.
+A growing collection of my long‑form fiction — each story living in its own world, with its own rules, voice, and emotional center.
 
 ---
 
