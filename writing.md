@@ -2,23 +2,26 @@
 
 Welcome to the hub for all my creative work — fiction, poetry, and cookbooks.
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+---
 
-  <div style="flex: 1; min-width: 250px;">
-    <h3><a href="novels.md">Novels</a></h3>
-    <p>The Notes Between Us</p>
-  </div>
+## Novels
+- [The Notes Between Us](the-notes-between-us.md)
+- [Future Novel Title](future-novel-2.md)
+- [Future Novel Title](future-novel-3.md)
 
-  <div style="flex: 1; min-width: 250px;">
-    <h3><a href="cookbooks.md">Cookbooks</a></h3>
-    <p>My culinary writing, including <em>Salted Words, Broken Break</em>.</p>
-  </div>
+---
 
-  <div style="flex: 1; min-width: 250px;">
-    <h3><a href="poems.md">Poems</a></h3>
-    <p>Published work and personal pieces — a growing collection of my poetry.</p>
-  </div>
+## Cookbooks
+- [Salted Words, Broken Break](salted-words-broken-break.md)
+- [Future Cookbook Title](future-cookbook-2.md)
 
-</div>
+---
+
+## Poems
+- [Published Poem Title](published-poem.md)
+- [Unpublished Poem 1](poem-1.md)
+- [Unpublished Poem 2](poem-2.md)
+- [Unpublished Poem 3](poem-3.md)
+
 
 
