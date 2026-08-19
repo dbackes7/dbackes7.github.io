@@ -16,14 +16,13 @@ My novel *The Notes Between Us* is currently in the works, with two middle‑sch
 
 A few snapshots from the people and pets who make up my world.
 
-<p align="center">
-  <img src="assets/Dan and Sam Engagement.jpg" width="300" style="border: 2px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<p align="center">
-  <img src="assets/Cooper and Finn Backyard.JPG" width="300" style="border: 2px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
-</p>
+  <img src="assets/Dan and Sam Engagement.jpg" width="250" style="border: 2px solid #ccc; border-radius: 8px;">
 
-<p align="center">
-  <img src="assets/Bramble.jpeg" width="300" style="border: 2px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
-</p>
+  <img src="assets/Cooper and Finn Backyard.JPG" width="250" style="border: 2px solid #ccc; border-radius: 8px;">
+
+  <img src="assets/Bramble.jpeg" width="250" style="border: 2px solid #ccc; border-radius: 8px;">
+
+</div>
+
