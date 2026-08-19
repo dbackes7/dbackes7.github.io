@@ -8,7 +8,7 @@ Whether it's a legendary NFL nose tackle or the soul behind a beloved neighborho
 ## Latest Episodes
 
 ### Buzzsprout
-<iframe src="https://www.buzzsprout.com/2546228/episodes/19666658-stream-of-consciousness-67-kyle knall?client_source=small_player&iframe=true" loading="lazy" width="100%" height="200" frameborder="0" scrolling="no" title='Stream of Consciousness with Dan: Stories from the Midwest, Stream of Consciousness #67 - Kyle Knall'></iframe>
+<iframe src="https://www.buzzsprout.com/2546228/episodes/19672806-stream-of-consciousness-67-kyle-knall?client_source=small_player&iframe=true" loading="lazy" width="100%" height="200" frameborder="0" scrolling="no" title='Stream of Consciousness with Dan: Stories from the Midwest, Stream of Consciousness #67 - Kyle Knall'></iframe>
 
 ### Spotify
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3acOLh5tiTp2ze5x8r9H8g?utm_source=generator&si=1252d8f8aed84049" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
