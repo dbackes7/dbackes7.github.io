@@ -5,7 +5,7 @@ Welcome to the hub for all my creative work — fiction, poetry, and cookbooks.
 ---
 
 ## Novels
-- [The Notes Between Us](the-notes-between-us.md)
+- [The Notes Between Us (Currently in Formatting/Publishing Phase)](the-notes-between-us.md)
 - [Future Novel Title](future-novel-2.md)
 - [Future Novel Title](future-novel-3.md)
 
