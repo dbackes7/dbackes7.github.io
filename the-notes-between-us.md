@@ -12,9 +12,6 @@ At MAGIS, Basil meets the bandmates who will become his closest friends — a gr
 
 The story blends humor, heart, and musical magic — exploring creativity, belonging, and what happens when a kid who’s always felt like an outsider finally finds the place where he fits.
 
-### Worldbuilding (MAGIS)
-Notes, lore, and ideas about the MAGIS world — its musical magic system, history, and cultural details.
-
 ### Characters
 Profiles, sketches, and development notes for the main cast.
 
@@ -23,4 +20,4 @@ Short passages or moments from the novel (non‑spoiler, non‑copyrighted draft
 
 ---
 
-More novels will be added here as they’re written.
+### Where to Buy
