@@ -18,6 +18,7 @@ Profiles, sketches, and development notes for the main cast.
 ### Excerpts
 Short passages or moments from the novel (non‑spoiler, non‑copyrighted drafts only).
 
+### Where to Buy
 ---
 
-### Where to Buy
+
