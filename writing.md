@@ -6,7 +6,7 @@ Welcome to the hub for all my creative work — fiction, poetry, and cookbooks.
 
   <div style="flex: 1; min-width: 250px;">
     <h3><a href="novels.md">Novels</a></h3>
-    <p>Stories from the MAGIS world and beyond.</p>
+    <p>The Notes Between Us</p>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
